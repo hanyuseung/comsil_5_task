@@ -8,5 +8,7 @@ int main(void)
     printf("%d\n",add(a,b));
     printf("%d\n",sub(a,b));
     printf("%d\n",mul(a,b));
+    printf("%d\n",div(a,b));
+    printf("%d\n",power(a,b));
     return 0;
 }
